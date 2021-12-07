@@ -8,7 +8,7 @@ function Footer() {
     return ( 
     <footer>
         <p>
-        Copyright © {currentYear}
+        © {currentYear} AJF
         </p>
     </footer>
 
